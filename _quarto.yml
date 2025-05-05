@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Ayano Tamura"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: Project1_SDS192/scorecard_analysis.html
+        text: Project 1
+      - href: Project2_SDS192/WCA_analysis.html
+        text: Project 2
+      - href: Project3_SDS192/mapping.html
+        text: Project 3
+        
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

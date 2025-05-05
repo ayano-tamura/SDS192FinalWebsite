@@ -1,0 +1,22 @@
+---
+title: "About Me"
+---
+
+Hello! My name is Ayano Tamura, and I am a second year student at Smith College, double majoring in Economics and Statistical & Data Science, working towards a concentration in Global Finance. I'm passionate about using data to understand real-world issues and drive meaningful insights.
+
+I'm interested in using data analysis as a tool to come up with business strategies and solutions in the Marketing, Financial, and Sports industry. Some of my current career interests include Marketing, Marketing Research, Consulting, and Sports Analytics. I have technical proficiency in Python, Java, R, as well as website development tools (HTML, CSS, JavaScript).
+
+On campus, I'm involved in a wide range of organizations, from Student Government, to Japanese Student Association, and Gold Key (Tour Guide). My current role as Class President has especially helped me build my leadership and team management skills. I love working with my cabinet members to plan and execute events and spaces for community engagement.
+
+My hobbies include traveling, dancing, and making Spotify playlists. If any of my skills, experiences, or hobbies interest you, please reach out! I would love to connect with you.
+
+<a href="https://www.linkedin.com/in/ayano-tamura/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="20" style="vertical-align:middle; margin-right:8px;">
+  Connect with me on LinkedIn
+</a>
+
+<a href="mailto:atamura@smith.edu">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" width="20" style="vertical-align:middle; margin-right:8px;">
+  Email me
+</a>
+

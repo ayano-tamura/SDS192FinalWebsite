@@ -1,0 +1,11 @@
+---
+title: "Welcome"
+format: 
+  html:
+    code-fold: true
+    embed-resources: true
+---
+
+Hi there! Welcome to my website. Feel free to navigate through the About page to learn more about me, and each of the projects I have completed this semester in my SDS192 class.
+
+![A visualization I made for a project](finalproject.png){width=60% fig-align="center"}
